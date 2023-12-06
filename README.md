@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @theAlexRepo
+- 👀 I’m interested in JavaScript, Typescript, Java
+- 🌱 I’m currently learning - Developing my TS skills after hours 
+- 👷🏽‍♂️ I'm currently a software engineer working in fintech, > one year of experience in SWE.
